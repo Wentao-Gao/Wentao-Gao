@@ -63,25 +63,6 @@
 
 ---
 
-## 🛠️ Technical Expertise
-
-<div align="center">
-
-### Core Technologies
-![Python](https://img.shields.io/badge/Python-f8f9fa?style=flat&logo=python&logoColor=2C3E50&labelColor=ffffff&border=1px%20solid%20%232C3E50)
-![PyTorch](https://img.shields.io/badge/PyTorch-f8f9fa?style=flat&logo=pytorch&logoColor=2C3E50&labelColor=ffffff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f8f9fa?style=flat&logo=tensorflow&logoColor=2C3E50&labelColor=ffffff)
-![Jupyter](https://img.shields.io/badge/Jupyter-f8f9fa?style=flat&logo=jupyter&logoColor=2C3E50&labelColor=ffffff)
-
-### Research Domains
-![Causal Inference](https://img.shields.io/badge/Causal%20Inference-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
-![Climate Modeling](https://img.shields.io/badge/Climate%20Modeling-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
-![Time Series](https://img.shields.io/badge/Time%20Series-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
-
-</div>
-
----
 
 ## 🎯 Featured Research Projects
 
