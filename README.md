@@ -1,203 +1,178 @@
-# 🌍 Drought Prediction Using Causal Inference in Climate Change
+# 👋 Hi there! I'm Wentao Gao
 
 <div align="center">
 
-[![Research Focus](https://img.shields.io/badge/Research-Causality%20%7C%20Time%20Series%20%7C%20Climate-blue?style=for-the-badge)](#)
-[![Author](https://img.shields.io/badge/Author-Wentao%20Gao-green?style=for-the-badge)](https://github.com/gwt9970161)
-[![Status](https://img.shields.io/badge/Status-Active%20Research-orange?style=for-the-badge)](#)
-
-*Advancing climate prediction through the lens of causal inference and time series forecasting*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=PhD+Researcher+in+Causal+AI;Climate+Prediction+%7C+Time+Series+%7C+Causality;Building+the+Future+of+Weather+Forecasting;Think+Different%2C+Code+Smarter)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 Research Focus
+## 🚀 About Me
 
-**Tags:** `@causality` `@time-series-prediction` `@long-term-forecasting` `@feature-selection` `@causal-transfer-learning`
-
-This research project explores the intersection of **causal inference** and **time series analysis** for drought prediction in the context of climate change. Our work aims to enhance climate model accuracy by addressing unobserved confounders and leveraging advanced machine learning techniques.
+```python
+class WentaoGao:
+    def __init__(self):
+        self.role = "PhD Researcher"
+        self.focus = ["Causal Inference", "Climate Prediction", "Time Series"]
+        self.current_work = "Drought Prediction using Causal AI"
+        self.motto = "Think Different"
+        self.location = "🇦🇺 Australia"
+        
+    def current_projects(self):
+        return {
+            "research": "Zero-Inflation in Climate Data",
+            "papers": ["IJCAI 2025", "ECAI 2025", "AAAI 2026"],
+            "tools": "Foundation Models for Weather Prediction"
+        }
+    
+    def get_skills(self):
+        return {
+            "languages": ["Python", "R", "MATLAB"],
+            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
+            "causal_tools": ["DoWhy", "CausalML", "Tigramite"],
+            "climate_tools": ["Xarray", "CDO", "NetCDF4"]
+        }
+```
 
 ---
 
-## 📈 Research Timeline
+## 📊 GitHub Analytics
 
-<details>
-<summary><b>🏆 Major Milestones</b></summary>
+<div align="center">
 
-```
-2023-10-05  ✅ Research Proposal Completed
-2024-01-17  📝 First IJCAI Paper Submitted
-2024-04-25  📝 ECAI Submission
-2024-08-12  📝 Second AAAI Paper Completed
-2024-09-10  📝 Third ICASSP Paper Completed
-2024-11-XX  🎉 First Paper Accepted by AJCAI 2024 (Oral)
-2025-XX-XX  🎉 IJCAI 2025 Acceptance
-2025-XX-XX  🎉 ECAI 2025 Acceptance
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wentao-Gao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
 
-</details>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wentao-Gao&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-<details>
-<summary><b>📊 Submission Status</b></summary>
+</div>
 
-| Conference | Status | Paper Focus |
-|------------|--------|-------------|
-| **IJCAI 2025** | ✅ **Accepted** | Deconfounding Multi-Cause Latent Confounders |
-| **ECAI 2025** | ✅ **Accepted** | Zero-Inflated Precipitation Prediction |
-| **AAAI 2026** | 📤 **Submitted** | Wrapper & DET Approaches |
-| **ICLR 2026** | 🔄 **In Prep** | Residual Correction Method |
-| **NeurIPS 2025** | 📤 **Submitted** | Foundation Models for SPEI Prediction |
+<div align="center">
 
-</details>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wentao-Gao&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📚 Publications
-
-### 🌟 2025 Highlights
+## 🎯 Research Highlights
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-**Deconfounding Multi-Cause Latent Confounders: A Factor-Model Approach to Climate Model Bias Correction**
-- *Authors:* **Wentao Gao**, Jiuyong Li et al.
-- *Venue:* IJCAI 2025 (Oral & Poster)
-- *Focus:* Factor-model-based bias correction for Global Climate Models
+### 🏆 Recent Achievements
+- 🎉 **IJCAI 2025** - Paper Accepted (Oral)
+- 🎉 **ECAI 2025** - Paper Accepted (Oral)
+- 📝 **101** contributions in the last year
+- ⭐ **5+** starred repositories
+- 👥 **3** followers & growing
 
 </td>
-<td width="40%">
+<td width="50%">
 
-**From Noise to Precision: A Diffusion-Driven Approach to Zero-Inflated Precipitation Prediction**
-- *Authors:* **Wentao Gao**, Jiuyong Li et al.
-- *Venue:* ECAI 2025 (Oral & Poster)
-- *Focus:* Zero Inflation Diffusion Framework (ZIDF)
+### 🔬 Current Focus
+- 🌍 **Climate AI** - Drought prediction models
+- 📈 **Causal Time Series** - Deconfounding methods
+- 🤖 **Foundation Models** - Zero-shot weather prediction
+- 📊 **Zero Inflation** - Advanced statistical modeling
 
 </td>
 </tr>
 </table>
 
-### 📖 Complete Publication List
+---
 
-<details>
-<summary><b>View All Publications (2023-2025)</b></summary>
+## 🛠️ Tech Stack
 
-#### 🔹 2025
-- **Estimating Peer Direct and Indirect Effects in Observational Network Data** - *ICML 2025*
-- **Diffusion Models for Attribution** - *AAAI 2025* ([Link](https://ojs.aaai.org/index.php/AAAI/article/view/29492))
-- **PCFNet: Enhancing Time Series Forecasting through Preserving Constant Frequency** - *ECAI 2025*
-- **G-GLformer: Transformer with GRU Embedding and Global-Local Attention** - *ECML-PKDD 2025*
+<div align="center">
 
-#### 🔹 2024
-- **TSI: A Multi-view Representation Learning Approach for Time Series Forecasting** - *AJCAI 2024* ([Springer](https://link.springer.com/chapter/10.1007/978-981-97-0721-1_23))
-- **Instrumental Variable Estimation for Causal Inference in Longitudinal Data** - *AAAI 2024* ([Link](https://ojs.aaai.org/index.php/AAAI/article/view/28712))
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🔹 2023
-- **A Unified Trajectory Generation Algorithm for Dynamic Dexterous Manipulation** - *IEEE/RSJ IROS 2023* ([IEEE Xplore](https://ieeexplore.ieee.org/document/10342202))
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-</details>
+### Climate & Data Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 🔬 Research Framework
+## 📈 Research Impact
 
-### Core Components
+<div align="center">
 
-```mermaid
-graph TD
-    A[Climate Data] --> B[Causal Discovery]
-    B --> C[Time Series Analysis]
-    C --> D[Feature Selection]
-    D --> E[Causal Transfer Learning]
-    E --> F[Drought Prediction]
-    
-    G[Foundation Models] --> E
-    H[Zero-Inflation Handling] --> C
-    I[Bias Correction] --> F
+```
+📚 Publications Timeline
+├── 2023: 1 IEEE/RSJ IROS
+├── 2024: 2 Conference Papers (AJCAI, AAAI)
+└── 2025: 5+ Accepted/Submitted Papers
 ```
 
-### Key Research Areas
-
-<div align="center">
-
-| 🎯 **Causal Inference** | 📈 **Time Series** | 🌡️ **Climate Modeling** |
-|:---:|:---:|:---:|
-| Deconfounding Methods | LSTM/Transformer | NCEP-NCAR Analysis |
-| Graphical Models | Multi-view Learning | Precipitation Prediction |
-| IV Estimation | Foundation Models | SPEI Forecasting |
+**Research Areas:**
+`Causal Inference` • `Climate Modeling` • `Time Series Forecasting` • `Zero Inflation` • `Foundation Models`
 
 </div>
 
 ---
 
-## 🛠️ Tools & Resources
-
-### 📦 Developed Tools
-- **[Zero Inflation Simulation](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)** - Implementation for zero-inflated data simulation
-- **[Climate Data Processing](https://github.com/gwt9970161/Climate-Change-in-Data-Science)** - NetCDF to CSV conversion tools
-
-### 📊 Key Datasets
-- **NCEP-NCAR Reanalysis 1** - Primary climate dataset
-- **[El Niño Data](https://psl.noaa.gov/data/timeseries/month/DS/Nino4/)** - Oceanic indices
-
-### 🔧 Causality Toolboxes
-
-| Tool | Description | Language |
-|------|-------------|----------|
-| [DoWhy](https://github.com/microsoft/dowhy) | Causal inference in Python | Python |
-| [CausalML](https://github.com/uber/causalml) | Uplift modeling & treatment effects | Python |
-| [Tigramite](https://github.com/jakobrunge/tigramite) | Causal discovery for time series | Python |
-| [gCastle](https://github.com/huawei-noah/trustworthyAI) | Comprehensive causal discovery | Python |
-
----
-
-## 🎓 Learning Resources
-
-### 📖 Recommended Reading
-- **[Causality: A Brief Intro](https://www.researchgate.net/publication/374233586_Causality_A_Brief_Intro)** - Quick causality overview
-- **[AI Lecture Notes](https://wentao-gao.notion.site/Bristol-Intro-to-AI-8ba5854a9a8e49d9a2e1659af5446fa3)** - Introduction to AI (Chinese)
-- **[Time Series Deconfounder Blog](https://zhuanlan.zhihu.com/p/681178681)** - Technical blog post
-
-### 🔗 Useful Links
-- **[Weekly Reports](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science/tree/main/Weekly%20Report)** - Detailed progress tracking
-- **[Domain Adaptation Papers](link-to-collection)** - Curated paper collection
-
----
-
-## 🚀 Next Steps
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 🎯 Current Focus
-**Leveraging Frozen Time Series Foundation Models for Enhanced Prediction**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
 
 </div>
 
-### Upcoming Work
-- [ ] **AAAI 2026** - Wrapper and DET methodology papers
-- [ ] **ICLR 2026** - Residual correction approach
-- [ ] **Foundation Model Integration** - Zero-shot climate prediction
-- [ ] **Comprehensive Evaluation** - Multi-dataset validation
-
 ---
 
-## 📞 Contact & Collaboration
+## 🎓 Academic Presence
 
 <div align="center">
 
-**Wentao Gao** - PhD Researcher in Causal Climate Modeling
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0009--0009--8945--2946-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8945-2946)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Wentao-Gao)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
 
-[![GitHub](https://img.shields.io/badge/GitHub-gwt9970161-black?style=flat&logo=github)](https://github.com/gwt9970161/Climate-Change-in-Data-Science)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:your-email@domain.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Wentao-Gao)
+</div>
 
-*If this work helps your research, please ⭐ star and follow! Questions and collaborations are always welcome.*
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-wentao.gao%40research.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wentao.gao@research.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 </div>
 
 ---
 
 <div align="center">
-<i>🌱 Contributing to sustainable climate prediction through innovative AI and causal inference methods</i>
+
+### 💡 *"Bridging Causality and Climate Science for a Sustainable Future"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wentao-Gao&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
