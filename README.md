@@ -1,348 +1,203 @@
+# 🌍 Drought Prediction Using Causal Inference in Climate Change
+
 <div align="center">
 
-```
-    ╔═══════════════════════════════════════════════════════════════════════════════════╗
-    ║  ██╗    ██╗███████╗███╗   ██╗████████╗ █████╗  ██████╗      ██████╗  █████╗  ██████╗  ║
-    ║  ██║    ██║██╔════╝████╗  ██║╚══██╔══╝██╔══██╗██╔═══██╗    ██╔════╝ ██╔══██╗██╔═══██╗ ║
-    ║  ██║ █╗ ██║█████╗  ██╔██╗ ██║   ██║   ███████║██║   ██║    ██║  ███╗███████║██║   ██║ ║
-    ║  ██║███╗██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██║██║   ██║    ██║   ██║██╔══██║██║   ██║ ║
-    ║  ╚███╔███╔╝███████╗██║ ╚████║   ██║   ██║  ██║╚██████╔╝    ╚██████╔╝██║  ██║╚██████╔╝ ║
-    ║   ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ║
-    ║                                                                                     ║
-    ║    🎓 PhD Researcher | 🌍 Climate AI Architect | 📊 Causal Inference Wizard        ║
-    ║                          🚀 Building Tomorrow's Weather Models                      ║
-    ╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+[![Research Focus](https://img.shields.io/badge/Research-Causality%20%7C%20Time%20Series%20%7C%20Climate-blue?style=for-the-badge)](#)
+[![Author](https://img.shields.io/badge/Author-Wentao%20Gao-green?style=for-the-badge)](https://github.com/gwt9970161)
+[![Status](https://img.shields.io/badge/Status-Active%20Research-orange?style=for-the-badge)](#)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Think+Different%2C+Code+Extraordinary+%E2%9A%A1;%F0%9F%8C%A9%EF%B8%8F+Transforming+Climate+Science+with+AI+%F0%9F%8C%A9%EF%B8%8F;%F0%9F%94%AE+Unveiling+Causality+in+Chaos+%F0%9F%94%AE;%F0%9F%9A%80+Where+Math+Meets+Magic+%F0%9F%9A%80" alt="Artistic Typing SVG" />
+*Advancing climate prediction through the lens of causal inference and time series forecasting*
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 Research Focus
+
+**Tags:** `@causality` `@time-series-prediction` `@long-term-forecasting` `@feature-selection` `@causal-transfer-learning`
+
+This research project explores the intersection of **causal inference** and **time series analysis** for drought prediction in the context of climate change. Our work aims to enhance climate model accuracy by addressing unobserved confounders and leveraging advanced machine learning techniques.
+
+---
+
+## 📈 Research Timeline
+
+<details>
+<summary><b>🏆 Major Milestones</b></summary>
 
 ```
-     ┌─────────────────────── ⚡ NEURAL NETWORK STATUS ⚡ ───────────────────────┐
-     │                                                                       │
-     │   🧠 Intelligence    ████████████████████████▓▓▓▓ 85%                 │
-     │   🔬 Research Skill  █████████████████████████▓▓▓ 90%                 │
-     │   💻 Code Mastery    ████████████████████▓▓▓▓▓▓▓▓ 80%                 │
-     │   🌍 Climate Vision  ███████████████████████▓▓▓▓▓ 88%                 │
-     │   📊 Data Wizardry   ████████████████████████▓▓▓▓ 87%                 │
-     │   ☕ Coffee Level    ████████████████████████████ MAX                 │
-     │                                                                       │
-     └───────────────────────────────────────────────────────────────────────┘
+2023-10-05  ✅ Research Proposal Completed
+2024-01-17  📝 First IJCAI Paper Submitted
+2024-04-25  📝 ECAI Submission
+2024-08-12  📝 Second AAAI Paper Completed
+2024-09-10  📝 Third ICASSP Paper Completed
+2024-11-XX  🎉 First Paper Accepted by AJCAI 2024 (Oral)
+2025-XX-XX  🎉 IJCAI 2025 Acceptance
+2025-XX-XX  🎉 ECAI 2025 Acceptance
 ```
 
-</div>
+</details>
 
-<br/>
+<details>
+<summary><b>📊 Submission Status</b></summary>
 
-<div align="center">
+| Conference | Status | Paper Focus |
+|------------|--------|-------------|
+| **IJCAI 2025** | ✅ **Accepted** | Deconfounding Multi-Cause Latent Confounders |
+| **ECAI 2025** | ✅ **Accepted** | Zero-Inflated Precipitation Prediction |
+| **AAAI 2026** | 📤 **Submitted** | Wrapper & DET Approaches |
+| **ICLR 2026** | 🔄 **In Prep** | Residual Correction Method |
+| **NeurIPS 2025** | 📤 **Submitted** | Foundation Models for SPEI Prediction |
 
-### 🎨 **THE ALGORITHM ARTIST**
+</details>
+
+---
+
+## 📚 Publications
+
+### 🌟 2025 Highlights
 
 <table>
 <tr>
-<td align="center" width="25%">
-<div align="center">
+<td width="60%">
 
-```
-    🌪️
-  ┌─────┐
-  │     │
-  │ 🌊  │ CLIMATE
-  │     │ MODELING
-  └─────┘
-    💨
-```
-**Climate Science**  
-*Predicting Nature's Patterns*
+**Deconfounding Multi-Cause Latent Confounders: A Factor-Model Approach to Climate Model Bias Correction**
+- *Authors:* **Wentao Gao**, Jiuyong Li et al.
+- *Venue:* IJCAI 2025 (Oral & Poster)
+- *Focus:* Factor-model-based bias correction for Global Climate Models
 
 </td>
-<td align="center" width="25%">
-<div align="center">
+<td width="40%">
 
-```
-   ⚡⚡⚡
-  ┌─────┐
-  │ 🔮  │
-  │     │ CAUSAL
-  │ 📈  │ INFERENCE
-  └─────┘
-   🧠💫
-```
-**Causal Magic**  
-*Unveiling Hidden Connections*
-
-</td>
-<td align="center" width="25%">
-<div align="center">
-
-```
-   📊📈📉
-  ┌─────┐
-  │ 🕰️  │
-  │     │ TIME
-  │ 📉  │ SERIES
-  └─────┘
-   🔄🔄🔄
-```
-**Temporal Wizardry**  
-*Mastering Time & Patterns*
-
-</td>
-<td align="center" width="25%">
-<div align="center">
-
-```
-   🤖💎✨
-  ┌─────┐
-  │ 🧬  │
-  │     │ ZERO
-  │ 0️⃣  │ INFLATION
-  └─────┘
-   📊⚡🔬
-```
-**Statistical Alchemy**  
-*Transforming Data Chaos*
+**From Noise to Precision: A Diffusion-Driven Approach to Zero-Inflated Precipitation Prediction**
+- *Authors:* **Wentao Gao**, Jiuyong Li et al.
+- *Venue:* ECAI 2025 (Oral & Poster)
+- *Focus:* Zero Inflation Diffusion Framework (ZIDF)
 
 </td>
 </tr>
 </table>
 
-</div>
+### 📖 Complete Publication List
+
+<details>
+<summary><b>View All Publications (2023-2025)</b></summary>
+
+#### 🔹 2025
+- **Estimating Peer Direct and Indirect Effects in Observational Network Data** - *ICML 2025*
+- **Diffusion Models for Attribution** - *AAAI 2025* ([Link](https://ojs.aaai.org/index.php/AAAI/article/view/29492))
+- **PCFNet: Enhancing Time Series Forecasting through Preserving Constant Frequency** - *ECAI 2025*
+- **G-GLformer: Transformer with GRU Embedding and Global-Local Attention** - *ECML-PKDD 2025*
+
+#### 🔹 2024
+- **TSI: A Multi-view Representation Learning Approach for Time Series Forecasting** - *AJCAI 2024* ([Springer](https://link.springer.com/chapter/10.1007/978-981-97-0721-1_23))
+- **Instrumental Variable Estimation for Causal Inference in Longitudinal Data** - *AAAI 2024* ([Link](https://ojs.aaai.org/index.php/AAAI/article/view/28712))
+
+#### 🔹 2023
+- **A Unified Trajectory Generation Algorithm for Dynamic Dexterous Manipulation** - *IEEE/RSJ IROS 2023* ([IEEE Xplore](https://ieeexplore.ieee.org/document/10342202))
+
+</details>
 
 ---
 
-<div align="center">
+## 🔬 Research Framework
 
-```
-╭─────────────────────── 🎯 MISSION CONTROL CENTER 🎯 ───────────────────────╮
-│                                                                            │
-│  Current Mission: 🌍 SAVE THE PLANET THROUGH AI                            │
-│  ├── 🎯 Target: Drought Prediction using Causal AI                        │
-│  ├── 📊 Progress: ████████████████████▓▓▓▓▓▓▓▓▓▓ 80% Complete              │
-│  ├── 🏆 Status: LEGENDARY RESEARCHER                                       │
-│  └── ⚡ Power Level: OVER 9000                                             │
-│                                                                            │
-│  Achievements Unlocked:                                                    │
-│  🏅 IJCAI 2025 Master     ✅ COMPLETED                                     │
-│  🏅 ECAI 2025 Champion    ✅ COMPLETED                                     │
-│  🏅 101 Commit Warrior    ✅ COMPLETED                                     │
-│  🏅 Foundation Model Sage 🔄 IN PROGRESS                                   │
-│                                                                            │
-╰────────────────────────────────────────────────────────────────────────────╯
+### Core Components
+
+```mermaid
+graph TD
+    A[Climate Data] --> B[Causal Discovery]
+    B --> C[Time Series Analysis]
+    C --> D[Feature Selection]
+    D --> E[Causal Transfer Learning]
+    E --> F[Drought Prediction]
+    
+    G[Foundation Models] --> E
+    H[Zero-Inflation Handling] --> C
+    I[Bias Correction] --> F
 ```
 
-</div>
-
----
+### Key Research Areas
 
 <div align="center">
 
-### 🌟 **LEGENDARY ARTIFACTS & POWER-UPS**
-
-</div>
-
-<div align="center">
-
-```
-     ⚔️ WEAPON ARSENAL ⚔️               🛡️ DEFENSE SYSTEMS 🛡️
-                                    
-┌──────────────────────────┐        ┌──────────────────────────┐
-│ 🐍 Python [LEGENDARY]   │        │ 🔥 PyTorch [MASTER]     │
-│ 📊 R Statistical [EPIC] │        │ 🧠 TensorFlow [EXPERT]  │
-│ 🧮 MATLAB [RARE]        │        │ 🎯 Scikit-learn [PRO]   │
-│ 🌐 JavaScript [COMMON]  │        │ 🐼 Pandas [VETERAN]     │
-└──────────────────────────┘        └──────────────────────────┘
-
-    🔮 MYSTICAL ARTIFACTS 🔮           ⚡ SPECIAL ABILITIES ⚡
-                                    
-┌──────────────────────────┐        ┌──────────────────────────┐
-│ 🧬 DoWhy [MYTHICAL]     │        │ 🌊 Climate Prediction   │
-│ 🎪 CausalML [LEGENDARY] │        │ 📈 Time Series Mastery  │
-│ 🕸️ Tigramite [EPIC]    │        │ 🔬 Zero-Inflation Magic │
-│ 🏰 gCastle [RARE]       │        │ ☕ Infinite Coffee Power│
-└──────────────────────────┘        └──────────────────────────┘
-```
+| 🎯 **Causal Inference** | 📈 **Time Series** | 🌡️ **Climate Modeling** |
+|:---:|:---:|:---:|
+| Deconfounding Methods | LSTM/Transformer | NCEP-NCAR Analysis |
+| Graphical Models | Multi-view Learning | Precipitation Prediction |
+| IV Estimation | Foundation Models | SPEI Forecasting |
 
 </div>
 
 ---
 
-<div align="center">
+## 🛠️ Tools & Resources
 
-### 📊 **ANALYTICS HOLOGRAM**
+### 📦 Developed Tools
+- **[Zero Inflation Simulation](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)** - Implementation for zero-inflated data simulation
+- **[Climate Data Processing](https://github.com/gwt9970161/Climate-Change-in-Data-Science)** - NetCDF to CSV conversion tools
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wentao-Gao&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffe66d"/>
+### 📊 Key Datasets
+- **NCEP-NCAR Reanalysis 1** - Primary climate dataset
+- **[El Niño Data](https://psl.noaa.gov/data/timeseries/month/DS/Nino4/)** - Oceanic indices
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wentao-Gao&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff6b6b&text_color=ffe66d&langs_count=8"/>
+### 🔧 Causality Toolboxes
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wentao-Gao&theme=synthwave-dark&hide_border=true&background=0A0A0A&stroke=FF6B6B&ring=4ECDC4&fire=FFE66D&currStreakNum=FFE66D&sideNums=4ECDC4&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════ 🎭 THE RESEARCH SYMPHONY 🎭 ══════════════════════╗
-║                                                                        ║
-║    🎼 Movement I: "Ode to Causality"                                   ║
-║    ├── 📝 IJCAI 2025: Deconfounding Multi-Cause Latent Confounders    ║
-║    └── 🎵 Status: SYMPHONY COMPLETE ✅                                 ║
-║                                                                        ║
-║    🎼 Movement II: "Rhapsody in Zero"                                  ║
-║    ├── 📝 ECAI 2025: Zero-Inflated Precipitation Prediction           ║
-║    └── 🎵 Status: HARMONIOUS MASTERPIECE ✅                           ║
-║                                                                        ║
-║    🎼 Movement III: "The Foundation Prelude"                          ║
-║    ├── 📝 AAAI 2026: Wrapper & DET Approaches                         ║
-║    └── 🎵 Status: COMPOSITION IN PROGRESS 🎹                          ║
-║                                                                        ║
-║    🎼 Movement IV: "Climatic Crescendo"                               ║
-║    ├── 📝 Future Work: Foundation Models & Climate Prediction         ║
-║    └── 🎵 Status: AWAITING INSPIRATION 🌟                             ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+| Tool | Description | Language |
+|------|-------------|----------|
+| [DoWhy](https://github.com/microsoft/dowhy) | Causal inference in Python | Python |
+| [CausalML](https://github.com/uber/causalml) | Uplift modeling & treatment effects | Python |
+| [Tigramite](https://github.com/jakobrunge/tigramite) | Causal discovery for time series | Python |
+| [gCastle](https://github.com/huawei-noah/trustworthyAI) | Comprehensive causal discovery | Python |
 
 ---
 
+## 🎓 Learning Resources
+
+### 📖 Recommended Reading
+- **[Causality: A Brief Intro](https://www.researchgate.net/publication/374233586_Causality_A_Brief_Intro)** - Quick causality overview
+- **[AI Lecture Notes](https://wentao-gao.notion.site/Bristol-Intro-to-AI-8ba5854a9a8e49d9a2e1659af5446fa3)** - Introduction to AI (Chinese)
+- **[Time Series Deconfounder Blog](https://zhuanlan.zhihu.com/p/681178681)** - Technical blog post
+
+### 🔗 Useful Links
+- **[Weekly Reports](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science/tree/main/Weekly%20Report)** - Detailed progress tracking
+- **[Domain Adaptation Papers](link-to-collection)** - Curated paper collection
+
+---
+
+## 🚀 Next Steps
+
 <div align="center">
 
-### 🚀 **INTERDIMENSIONAL PROJECT PORTALS**
+### 🎯 Current Focus
+**Leveraging Frozen Time Series Foundation Models for Enhanced Prediction**
 
 </div>
 
+### Upcoming Work
+- [ ] **AAAI 2026** - Wrapper and DET methodology papers
+- [ ] **ICLR 2026** - Residual correction approach
+- [ ] **Foundation Model Integration** - Zero-shot climate prediction
+- [ ] **Comprehensive Evaluation** - Multi-dataset validation
+
+---
+
+## 📞 Contact & Collaboration
+
 <div align="center">
 
-```
-    🌌 PORTAL ALPHA 🌌              🌌 PORTAL BETA 🌌
-                                
-┌─────────────────────────┐    ┌─────────────────────────┐
-│    🌍 CLIMATE NEXUS     │    │   📊 ZERO INFINITY      │
-│  ╭─────────────────╮    │    │  ╭─────────────────╮    │
-│  │ Drought AI Core │    │    │  │ Simulation Lab  │    │
-│  │ Research Hub    │    │    │  │ Statistical Zen │    │
-│  ╰─────────────────╯    │    │  ╰─────────────────╯    │
-│   Status: LEGENDARY     │    │   Status: MYTHICAL     │
-└─────────────────────────┘    └─────────────────────────┘
-```
+**Wentao Gao** - PhD Researcher in Causal Climate Modeling
 
-[![Climate Research Portal](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffe66d)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
+[![GitHub](https://img.shields.io/badge/GitHub-gwt9970161-black?style=flat&logo=github)](https://github.com/gwt9970161/Climate-Change-in-Data-Science)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:your-email@domain.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Wentao-Gao)
 
-[![Zero Inflation Portal](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffe66d)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
+*If this work helps your research, please ⭐ star and follow! Questions and collaborations are always welcome.*
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-╭─────────────────── 🎪 THE CAUSALITY CIRCUS 🎪 ───────────────────╮
-│                                                                  │
-│  🎭 The Great Confounder Tamer                                   │
-│  ├── Master of Hidden Variables                                  │
-│  ├── Slayer of Selection Bias                                    │
-│  └── Whisperer of Statistical Significance                       │
-│                                                                  │
-│  🔮 The Fortune Teller of Weather                                │
-│  ├── Prophet of Precipitation Patterns                          │
-│  ├── Oracle of Drought Destinies                                │
-│  └── Seer of Seasonal Shifts                                    │
-│                                                                  │
-│  ⚡ The Lightning Calculator                                     │
-│  ├── Wizard of Zero-Inflation Transformation                    │
-│  ├── Alchemist of Data Distributions                            │
-│  └── Magician of Model Architectures                            │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 **COMMUNICATION CONSTELLATION**
-
-</div>
-
-<div align="center">
-
-```
-        🛸 TRANSMISSION FREQUENCIES 🛸
-                     
-    📡 ORCID BEACON      📡 RESEARCH GATE     📡 EMAIL PORTAL
-   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-   │ 0009-0009-  │     │ Academic    │     │ Direct Line │
-   │ 8945-2946   │     │ Network Hub │     │ Connection  │
-   └─────────────┘     └─────────────┘     └─────────────┘
-        ⭐⭐⭐             ⭐⭐⭐⭐⭐             ⭐⭐⭐⭐
-```
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--8945--2946-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=1a1a1a)](https://orcid.org/0009-0009-8945-2946)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Academic%20Portal-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=1a1a1a)](#)
-[![Email](https://img.shields.io/badge/Email-Quantum%20Transmission-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:wentao.gao@research.edu)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔═══════════════════ ⚡ THE PHILOSOPHER'S CODE ⚡ ═══════════════════╗
-║                                                                   ║
-║   "In the realm where statistics dance with causality,           ║
-║    Where algorithms whisper secrets of tomorrow's weather,       ║
-║    I craft the future with lines of code and mathematical ink,   ║
-║    Transforming chaos into clarity, one equation at a time."     ║
-║                                                                   ║
-║                        — The Climate Alchemist                   ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=24&duration=3000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=600&lines=%E2%9A%A1+THINK+DIFFERENT+%E2%9A%A1;%F0%9F%94%AE+CODE+EXTRAORDINARY+%F0%9F%94%AE;%F0%9F%8C%9F+BUILD+LEGENDARY+%F0%9F%8C%9F" alt="Philosophy Typing" />
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Wentao-Gao&color=ff6b6b&style=for-the-badge&label=DIMENSIONAL+VISITORS)
-
-```
-    🎆 ACHIEVEMENT UNLOCKED: PROFILE EXPLORER 🎆
-         Thank you for entering my digital dimension!
-            Press ⭐ to join the research revolution!
-```
-
-</div>
-
-<div align="center">
-
-```
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║   🌟 WHERE SCIENCE MEETS ART, MAGIC HAPPENS 🌟              ║
-    ║                                                               ║
-    ║     "The most beautiful thing we can experience               ║
-    ║      is the mysterious. It is the source of all              ║
-    ║      true art and science." - Albert Einstein                ║
-    ║                                                               ║
-    ╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
+<i>🌱 Contributing to sustainable climate prediction through innovative AI and causal inference methods</i>
 </div>
