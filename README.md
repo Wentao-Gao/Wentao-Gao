@@ -2,108 +2,128 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=PhD+Researcher+in+Causal+AI;Climate+Prediction+%7C+Time+Series+%7C+Causality;Building+the+Future+of+Weather+Forecasting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=700&lines=PhD+Researcher+%7C+University+of+South+Australia;Causal+Inference+%2B+Climate+Modeling+%2B+Time+Series;Building+Robust+AI+for+Weather+%26+Climate+Prediction)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About
+## 🎓 Academic Profile
 
-**Position:** PhD Researcher  
-**Research Areas:** Causal Inference, Climate Prediction, Time Series Analysis  
-**Institution:** Australia  
-**Focus:** Developing causal AI methods for climate modeling and drought prediction  
+**Current Position:** PhD in Data Science, University of South Australia (2023-2027)  
+**Research Focus:** Causal inference methods for climate modeling and time series forecasting  
+**Location:** Adelaide, Australia  
 
-**Current Research:**
-- Zero-inflation modeling in climate data
-- Causal inference methods for time series forecasting
-- Foundation models for weather prediction
-- Statistical approaches to drought prediction
+**Educational Background:**
+- **M.Sc. Robotics** (Merit) - University of Bristol (2021-2022)
+- **B.Eng. Mechanical Engineering** (Distinction) - University of Leicester (2017-2021)
 
----
-
-## Publications
-
-**2025**
-- Paper accepted at **IJCAI 2025** (Oral Presentation)
-- Paper accepted at **ECAI 2025** (Oral Presentation)
-
-**Under Review**
-- Submission to **AAAI 2026**
-
-**Previous Work**
-- IEEE/RSJ IROS 2023
-- AJCAI 2024, AAAI 2024
+**Industry Experience:**
+- **Robotics Research Intern** at Tencent Robotics-X, Shenzhen (2022-2023)
 
 ---
 
-## GitHub Statistics
+## 🔬 Research Contributions
+
+### First-Author Publications
+
+**IJCAI 2025** (Oral & Poster)  
+*Deconfounding Multi-Cause Latent Confounders: A Factor-Model Approach to Climate Model Bias Correction*
+
+**ECAI 2025** (Oral & Poster)  
+*From Noise to Precision: A Diffusion-Driven Approach to Zero-Inflated Precipitation Prediction*
+
+**AJCAI 2024** (Oral)  
+*TSI: A Multi-view Representation Learning Approach for Time Series Forecasting*
+
+### Collaborative Publications
+
+**ECAI 2025** - PCFNet: Frequency-domain forecasting for long-term prediction  
+**ECML-PKDD 2025** - G-GLformer: Transformer with GRU embedding for multivariate forecasting  
+**ICML 2025** - Peer effect estimation in network data using GNN  
+**AAAI 2024/2025** - Instrumental variable methods & diffusion models for attribution
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wentao-Gao&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=666666&text_color=333333"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wentao-Gao&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2C3E50&icon_color=34495E&text_color=2C3E50&custom_title=Research%20%26%20Development%20Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wentao-Gao&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wentao-Gao&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&custom_title=Primary%20Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wentao-Gao&theme=default&hide_border=true&background=ffffff&stroke=333333&ring=666666&fire=333333&currStreakNum=333333&sideNums=333333&currStreakLabel=333333&sideLabels=333333&dates=666666)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wentao-Gao&theme=default&hide_border=true&background=ffffff&stroke=2C3E50&ring=34495E&fire=2C3E50&currStreakNum=2C3E50&sideNums=2C3E50&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=7F8C8D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## Tools & Technologies
+## 🛠️ Technical Expertise
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=333333)
-![R](https://img.shields.io/badge/R-white?style=flat-square&logo=r&logoColor=333333)
-![MATLAB](https://img.shields.io/badge/MATLAB-white?style=flat-square&logo=mathworks&logoColor=333333)
-![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&logoColor=333333)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat-square&logo=tensorflow&logoColor=333333)
-![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat-square&logo=jupyter&logoColor=333333)
-![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=333333)
-![Docker](https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=333333)
-![Linux](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=333333)
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-f8f9fa?style=flat&logo=python&logoColor=2C3E50&labelColor=ffffff&border=1px%20solid%20%232C3E50)
+![PyTorch](https://img.shields.io/badge/PyTorch-f8f9fa?style=flat&logo=pytorch&logoColor=2C3E50&labelColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-f8f9fa?style=flat&logo=tensorflow&logoColor=2C3E50&labelColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-f8f9fa?style=flat&logo=jupyter&logoColor=2C3E50&labelColor=ffffff)
+
+### Research Domains
+![Causal Inference](https://img.shields.io/badge/Causal%20Inference-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
+![Climate Modeling](https://img.shields.io/badge/Climate%20Modeling-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
+![Time Series](https://img.shields.io/badge/Time%20Series-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-f8f9fa?style=flat&logoColor=2C3E50&labelColor=ffffff)
 
 </div>
 
 ---
 
-## Featured Repositories
+## 🎯 Featured Research Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=666666)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
+[![Climate Research](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=666666)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
+[![Zero Inflation](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
 
 </div>
 
 ---
 
-## Academic Profiles
+## 🏫 Teaching & Mentorship
+
+**University of South Australia** (2024-2025)
+- **Unsupervised Methods in Analytics** - Clustering, dimensionality reduction, anomaly detection
+- **Advanced Topics in Data Analytics** - ML methodology and research project guidance  
+- **Experimental Design** - Statistical testing and research methodology
+- **Predictive Analytics** - Forecasting models and practical implementation
+
+---
+
+## 🌐 Academic Network
 
 <div align="center">
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0009--0009--8945--2946-white?style=flat-square&logo=orcid&logoColor=333333)](https://orcid.org/0009-0009-8945-2946)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-white?style=flat-square&logo=researchgate&logoColor=333333)](https://www.researchgate.net/profile/Wentao-Gao)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-white?style=flat-square&logo=google-scholar&logoColor=333333)](#)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0009--0009--8945--2946-f8f9fa?style=flat&logo=orcid&logoColor=2C3E50&labelColor=ffffff)](https://orcid.org/0009-0009-8945-2946)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-f8f9fa?style=flat&logo=researchgate&logoColor=2C3E50&labelColor=ffffff)](https://www.researchgate.net/profile/Wentao-Gao)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-f8f9fa?style=flat&logo=google-scholar&logoColor=2C3E50&labelColor=ffffff)](#)
 
 </div>
 
 ---
 
-## Contact
+## 📧 Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wentao.gao@research.edu-white?style=flat-square&logo=gmail&logoColor=333333)](mailto:wentao.gao@research.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=flat-square&logo=linkedin&logoColor=333333)](#)
+[![Email](https://img.shields.io/badge/University-gaowy014@mymail.unisa.edu.au-f8f9fa?style=flat&logo=gmail&logoColor=2C3E50&labelColor=ffffff)](mailto:gaowy014@mymail.unisa.edu.au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-f8f9fa?style=flat&logo=linkedin&logoColor=2C3E50&labelColor=ffffff)](https://www.linkedin.com/in/wentao-gao-941950227/)
+[![Phone](https://img.shields.io/badge/Phone-+61%200492845510-f8f9fa?style=flat&logo=phone&logoColor=2C3E50&labelColor=ffffff)](tel:+61492845510)
 
 </div>
 
@@ -111,8 +131,16 @@
 
 <div align="center">
 
-*"Bridging Causality and Climate Science for a Sustainable Future"*
+### Research Philosophy
+*"Bridging theoretical rigor with practical impact in climate AI"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wentao-Gao&color=lightgrey&style=flat-square&label=Profile+Views)
+<br/>
+
+**Current Focus:** Developing causal inference methods for robust climate prediction  
+**Next Goal:** Advancing zero-inflation modeling for extreme weather events
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wentao-Gao&color=2C3E50&style=flat&label=Profile+Views)
 
 </div>
