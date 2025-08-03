@@ -10,33 +10,39 @@
 
 ## 🚀 About Me
 
-
 <table>
 <tr>
 <td>
-🎓 Role: PhD Researcher
-🔬 Focus: Causal Inference • Climate Prediction • Time Series
-💼 Current Work: Drought Prediction using Causal AI
-💡 Motto: Think Different
-📍 Location: 🇦🇺 Australia
+
+**🎓 Role:** PhD Researcher  
+**🔬 Focus:** Causal Inference • Climate Prediction • Time Series  
+**💼 Current Work:** Drought Prediction using Causal AI  
+**💡 Motto:** Think Different  
+**📍 Location:** 🇦🇺 Australia  
+
 </td>
 <td>
-🔄 Current Projects:
 
-🔬 Zero-Inflation in Climate Data
-📝 Papers: IJCAI 2025, ECAI 2025, AAAI 2026
-🛠️ Foundation Models for Weather Prediction
+**🔄 Current Projects:**
+- 🔬 Zero-Inflation in Climate Data
+- 📝 Papers: IJCAI 2025, ECAI 2025, AAAI 2026
+- 🛠️ Foundation Models for Weather Prediction
 
 </td>
 </tr>
 </table>
+
 <details>
 <summary>🔧 <b>My Tech Stack</b></summary>
-yamlLanguages: [Python, R, MATLAB, JavaScript]
+
+```yaml
+Languages: [Python, R, MATLAB, JavaScript]
 ML_Frameworks: [PyTorch, TensorFlow, Scikit-learn, Pandas]
 Causal_Tools: [DoWhy, CausalML, Tigramite, gCastle]
 Climate_Tools: [Xarray, CDO, NetCDF4, NCEP-NCAR]
 Specialties: [Time Series, Causal Inference, Zero Inflation, Foundation Models]
+```
+
 </details>
 
 ---
