@@ -1,173 +1,149 @@
-# 👋 Hi there! I'm Wentao Gao
+# 🌟 Wentao Gao | Climate AI Researcher
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=PhD+Researcher+in+Causal+AI;Climate+Prediction+%7C+Time+Series+%7C+Causality;Building+the+Future+of+Weather+Forecasting;Think+Different%2C+Code+Smarter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+PhD+Researcher+in+Causal+AI;🌍+Climate+Prediction+%7C+Time+Series+%7C+Causality;🚀+Building+the+Future+of+Weather+Forecasting;💡+Think+Different%2C+Code+Smarter)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header&text=Welcome%20to%20My%20Digital%20Lab&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-<table>
+<div align="center">
+
+<table border="0">
 <tr>
-<td>
+<td width="50%" valign="top">
 
+### 🧬 Current Identity
 **🎓 Role:** PhD Researcher  
-**🔬 Focus:** Causal Inference • Climate Prediction • Time Series  
-**💼 Current Work:** Drought Prediction using Causal AI  
-**💡 Motto:** Think Different  
+**🔬 Focus:** Causal AI • Climate Prediction • Time Series  
 **📍 Location:** 🇦🇺 Australia  
+**💡 Motto:** Think Different  
+
+**🚀 Current Projects:**
+- 🔬 Zero-Inflation in Climate Data
+- 📝 IJCAI 2025, ECAI 2025, AAAI 2026
+- 🛠️ Foundation Models for Weather
+- 🌡️ Drought Prediction with Causal AI
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-**🔄 Current Projects:**
-- 🔬 Zero-Inflation in Climate Data
-- 📝 Papers: IJCAI 2025, ECAI 2025, AAAI 2026
-- 🛠️ Foundation Models for Weather Prediction
+### 🚀 Achievement Unlocked
+<img src="https://github-profile-trophy.vercel.app/api/?username=Wentao-Gao&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
+
+**🎉 Recent Wins:**
+- 🏆 IJCAI 2025 (Oral) ✅
+- 🏆 ECAI 2025 (Oral) ✅
+- 📊 101+ Contributions/Year
+- ⭐ 18 Stars Earned
+- 🔥 Current Streak: Active
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary>🔧 <b>My Tech Stack</b></summary>
-
-```yaml
-Languages: [Python, R, MATLAB, JavaScript]
-ML_Frameworks: [PyTorch, TensorFlow, Scikit-learn, Pandas]
-Causal_Tools: [DoWhy, CausalML, Tigramite, gCastle]
-Climate_Tools: [Xarray, CDO, NetCDF4, NCEP-NCAR]
-Specialties: [Time Series, Causal Inference, Zero Inflation, Foundation Models]
-```
-
-</details>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wentao-Gao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+### 🎮 My Coding Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wentao-Gao&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=FF6B35&icon_color=4CAF50&text_color=333333&custom_title=🚀%20Wentao's%20GitHub%20Universe"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wentao-Gao&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wentao-Gao&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=FF6B35&text_color=333333&custom_title=🛠️%20Language%20Arsenal"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wentao-Gao&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+### 🔥 Contribution Heatmap
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wentao-Gao&theme=default&hide_border=true&background=ffffff&stroke=FF6B35&ring=4CAF50&fire=FF6B35&currStreakNum=333333&sideNums=333333&currStreakLabel=FF6B35&sideLabels=333333&dates=666666)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 Research Highlights
+## 🛠️ Data & Tools
 
+<div align="center">
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+![Jupyter](https://img.shields.io/badge/Jupyter-FFB366?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=ffffff)
+![Git](https://img.shields.io/badge/Git-FF9999?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-87CEEB?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FFE873?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=ffffff)
+
+</div>
+
+</div>
+
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🏆 Recent Achievements
-- 🎉 **IJCAI 2025** - Paper Accepted (Oral)
-- 🎉 **ECAI 2025** - Paper Accepted (Oral)
-- 📝 **101** contributions in the last year
-- ⭐ **5+** starred repositories
-- 👥 **3** followers & growing
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=default&hide_border=true&bg_color=ffffff&title_color=FF6B35&text_color=333333&icon_color=4CAF50)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
 
 </td>
 <td width="50%">
 
-### 🔬 Current Focus
-- 🌍 **Climate AI** - Drought prediction models
-- 📈 **Causal Time Series** - Deconfounding methods
-- 🤖 **Foundation Models** - Zero-shot weather prediction
-- 📊 **Zero Inflation** - Advanced statistical modeling
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=default&hide_border=true&bg_color=ffffff&title_color=FF6B35&text_color=333333&icon_color=4CAF50)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Academic Network
 
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="https://orcid.org/0009-0009-8945-2946">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=ffffff" />
+</a>
 
-### AI/ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+<a href="https://www.researchgate.net/profile/Wentao-Gao">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=ffffff" />
+</a>
 
-### Climate & Data Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="#">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=ffffff" />
+</a>
 
 </div>
 
 ---
 
-## 📈 Research Impact
+## 📬 Let's Collaborate!
 
 <div align="center">
 
-```
-📚 Publications Timeline
-├── 2023: 1 IEEE/RSJ IROS
-├── 2024: 2 Conference Papers (AJCAI, AAAI)
-└── 2025: 5+ Accepted/Submitted Papers
-```
+<a href="mailto:wentao.gao@research.edu">
+<img src="https://img.shields.io/badge/📧%20Email-FF6B35?style=for-the-badge&logoColor=white&labelColor=ffffff" />
+</a>
 
-**Research Areas:**
-`Causal Inference` • `Climate Modeling` • `Time Series Forecasting` • `Zero Inflation` • `Foundation Models`
+<a href="#">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ffffff" />
+</a>
 
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
-
-</div>
-
----
-
-## 🎓 Academic Presence
-
-<div align="center">
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0009--0009--8945--2946-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8945-2946)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Wentao-Gao)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-wentao.gao%40research.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wentao.gao@research.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+<a href="#">
+<img src="https://img.shields.io/badge/🐦%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=ffffff" />
+</a>
 
 </div>
 
@@ -175,14 +151,22 @@ Specialties: [Time Series, Causal Inference, Zero Inflation, Foundation Models]
 
 <div align="center">
 
-### 💡 *"Bridging Causality and Climate Science for a Sustainable Future"*
+### 💫 "Bridging Causality and Climate Science for a Sustainable Future"
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wentao-Gao&color=blueviolet&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wentao-Gao&color=FF6B35&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- Snake Animation with Light Theme -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
