@@ -92,7 +92,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0009--0009--8945--2946-f8f9fa?style=flat&logo=orcid&logoColor=2C3E50&labelColor=ffffff)](https://orcid.org/0009-0009-8945-2946)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-f8f9fa?style=flat&logo=researchgate&logoColor=2C3E50&labelColor=ffffff)](https://www.researchgate.net/profile/Wentao-Gao)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-f8f9fa?style=flat&logo=google-scholar&logoColor=2C3E50&labelColor=ffffff)](#)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-f8f9fa?style=flat&logo=google-scholar&logoColor=2C3E50&labelColor=ffffff)](https://scholar.google.com/citations?user=eFfs2WYAAAAJ&hl=en)
 
 </div>
 
