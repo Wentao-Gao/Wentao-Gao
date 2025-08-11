@@ -21,6 +21,10 @@
 **Industry Experience:**
 - **Robotics Research Intern** at Tencent Robotics-X, Shenzhen (2022-2023)
 
+**Academic Service**
+
+* **Peer Reviewer** for leading conferences and journals, including *AAAI Conference on Artificial Intelligence (AAAI)*, *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, and *IEEE Intelligent Systems*.
+
 ---
 
 ## 🔬 Research Contributions
