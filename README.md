@@ -70,13 +70,17 @@
 
 ## 🎯 Featured Research Projects
 
+
 <div align="center">
 
 [![Climate Research](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
 
 [![Zero Inflation](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
 
+[![Climate Data Agent](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate_Data_Agent&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Climate_Data_Agent)
+
 </div>
+
 
 ---
 
