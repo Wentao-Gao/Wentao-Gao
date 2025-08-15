@@ -16,7 +16,7 @@
 
 **Educational Background:**
 - **M.Sc. Robotics** (Merit) - University of Bristol (2021-2022)
-- **B.Eng. Mechanical Engineering** (Distinction) - Dalian University of Technologu & University of Leicester (2017-2021)
+- **B.Eng. Mechanical Engineering** (Distinction) - Dalian University of Technology & University of Leicester (2017-2021)
 
 **Industry Experience:**
 - **Robotics Research Intern** at Tencent Robotics-X, Shenzhen (2022-2023)
