@@ -67,19 +67,57 @@
 
 ---
 
-
 ## 🎯 Featured Research Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### [Climate-Change-in-Data-Science](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
+PhD research repository exploring climate datasets, reanalysis data, visualization, and forecasting baselines.  
 
-[![Climate Research](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate-Change-in-Data-Science&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Climate-Change-in-Data-Science)
+![lang](https://img.shields.io/github/languages/top/Wentao-Gao/Climate-Change-in-Data-Science)
+![stars](https://img.shields.io/github/stars/Wentao-Gao/Climate-Change-in-Data-Science)
+![license](https://img.shields.io/github/license/Wentao-Gao/Climate-Change-in-Data-Science)
 
-[![Zero Inflation](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Zero_inflation_data_simulation&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Zero_inflation_data_simulation)
+</td>
+<td width="50%" valign="top">
 
-[![Climate Data Agent](https://github-readme-stats.vercel.app/api/pin/?username=Wentao-Gao&repo=Climate_Data_Agent&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E)](https://github.com/Wentao-Gao/Climate_Data_Agent)
+### [A-Factor-Model-Approach-to-Climate-Model-Bias-Correction](https://github.com/Wentao-Gao/A-Factor-Model-Approach-to-Climate-Model-Bias-Correction)
+Implementation of a factor-model method for deconfounding multi-cause latent confounders in climate model bias correction.  
 
-</div>
+![lang](https://img.shields.io/github/languages/top/Wentao-Gao/A-Factor-Model-Approach-to-Climate-Model-Bias-Correction)
+![stars](https://img.shields.io/github/stars/Wentao-Gao/A-Factor-Model-Approach-to-Climate-Model-Bias-Correction)
+![license](https://img.shields.io/github/license/Wentao-Gao/A-Factor-Model-Approach-to-Climate-Model-Bias-Correction)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Climate_Data_Agent](https://github.com/Wentao-Gao/Climate_Data_Agent)
+An AI-powered climate data processing agent that downloads, processes, and visualizes multi-source climate data using natural language commands.  
+
+![lang](https://img.shields.io/github/languages/top/Wentao-Gao/Climate_Data_Agent)
+![stars](https://img.shields.io/github/stars/Wentao-Gao/Climate_Data_Agent)
+![license](https://img.shields.io/github/license/Wentao-Gao/Climate_Data_Agent)
+
+</td>
+<td width="50%" valign="top">
+
+### [TSI-forcasting](https://github.com/Wentao-Gao/TSI-forcasting)
+An implementation of Time Series Inference (TSI) with decomposition and multi-view forecasting capabilities.  
+
+![lang](https://img.shields.io/github/languages/top/Wentao-Gao/TSI-forcasting)
+![stars](https://img.shields.io/github/stars/Wentao-Gao/TSI-forcasting)
+![license](https://img.shields.io/github/license/Wentao-Gao/TSI-forcasting)
+
+</td>
+</tr>
+</table>
+
+
+
 
 
 ---
