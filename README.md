@@ -31,6 +31,9 @@
 
 ### First-Author Publications
 
+**AAAI 2026** (Poster)
+*Deep Extreme Transformer: Tackling Zero-Inflated Time Series for Precipitation Prediction*
+
 **IJCAI 2025** (Oral & Poster)  
 *Deconfounding Multi-Cause Latent Confounders: A Factor-Model Approach to Climate Model Bias Correction*
 
