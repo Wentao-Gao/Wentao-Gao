@@ -31,7 +31,7 @@
 
 ### First-Author Publications
 
-**AAAI 2026** (Poster)
+**AAAI 2026** (Poster)  
 *Deep Extreme Transformer: Tackling Zero-Inflated Time Series for Precipitation Prediction*
 
 **IJCAI 2025** (Oral & Poster)  
