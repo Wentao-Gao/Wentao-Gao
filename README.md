@@ -10,7 +10,7 @@
 
 ## 🎓 Academic Profile
 
-**Current Position:** PhD in Data Science, University of South Australia (2023-2026)  
+**Current Position:** PhD in Data Science, Adelaide University (2023-2026)  
 **Research Focus:** Causal inference methods for climate modeling and time series forecasting  
 **Location:** Adelaide, Australia  
 
