@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=700&lines=PhD+Researcher+%7C+University+of+South+Australia;Causal+Inference+%2B+Climate+Modeling+%2B+Time+Series;Building+Robust+AI+for+Weather+%26+Climate+Prediction)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=700&lines=PhD+Researcher+%7C+Adelaide+University;Causal+Inference+%2B+Climate+Modeling+%2B+Time+Series;Building+Robust+AI+for+Weather+%26+Climate+Predictionh](https://git.io/typing-svg)
 
 </div>
 
