@@ -32,6 +32,9 @@
 
 ### First-Author Publications
 
+**WWW 2026** (Poster)  
+*Energy-Efficient Training-Free Zero-Inflation Correction for Rainfall Forecasting with Time-Series Foundation Models*
+
 **AAAI 2026** (Poster)  
 *Deep Extreme Transformer: Tackling Zero-Inflated Time Series for Precipitation Prediction*
 
