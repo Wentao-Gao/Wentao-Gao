@@ -131,7 +131,7 @@ An implementation of Time Series Inference (TSI) with decomposition and multi-vi
 
 ## 🏫 Teaching & Mentorship
 
-**University of South Australia** (2024-2025)
+**Adelaide University** (2024-2025)
 - **Unsupervised Methods in Analytics** - Clustering, dimensionality reduction, anomaly detection
 - **Advanced Topics in Data Analytics** - ML methodology and research project guidance  
 - **Experimental Design** - Statistical testing and research methodology
@@ -155,7 +155,7 @@ An implementation of Time Series Inference (TSI) with decomposition and multi-vi
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/University-gaowy014@mymail.unisa.edu.au-f8f9fa?style=flat&logo=gmail&logoColor=2C3E50&labelColor=ffffff)](mailto:gaowy014@mymail.unisa.edu.au)
+[![Email](https://img.shields.io/badge/University-a3166814@adelaide.edu.au-f8f9fa?style=flat&logo=gmail&logoColor=2C3E50&labelColor=ffffff)](mailto:a3166814@adelaide.edu.au)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-f8f9fa?style=flat&logo=linkedin&logoColor=2C3E50&labelColor=ffffff)](https://www.linkedin.com/in/wentao-gao-941950227/)
 [![Phone](https://img.shields.io/badge/Phone-+61%200492845510-f8f9fa?style=flat&logo=phone&logoColor=2C3E50&labelColor=ffffff)](tel:+61492845510)
 
