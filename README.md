@@ -24,7 +24,7 @@
 
 **Academic Service**
 
-* **Peer Reviewer** for leading conferences and journals, including *ICML*, *ICLR*, *Nips* *AAAI Conference on Artificial Intelligence (AAAI)*, *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, and *IEEE Intelligent Systems*.
+* **Peer Reviewer** for leading conferences and journals, including *ICML*, *ICLR*, *Nips*, *AAAI Conference on Artificial Intelligence (AAAI)*, *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, and *IEEE Intelligent Systems*.
 
 ---
 
