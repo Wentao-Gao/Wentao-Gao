@@ -32,6 +32,9 @@
 
 ### First-Author Publications
 
+**IJCAI 2026** (Oral & Poster)  
+*PhyTTA: Physics-Informed Test-Time Adaptation of Foundation Models for Regional Drought Prediction*
+
 **WWW 2026** (Poster)  
 *Energy-Efficient Training-Free Zero-Inflation Correction for Rainfall Forecasting with Time-Series Foundation Models*
 
