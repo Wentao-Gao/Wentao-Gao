@@ -32,6 +32,9 @@
 
 ### First-Author Publications
 
+**ICML 2026** (Poster)  
+*RESIDUAL-GUIDED MULTI-RESOLUTION REFINEMENT OF FOUNDATION MODELS - A CASE STUDY IN DROUGHT FORECASTING*
+
 **IJCAI 2026** (Oral & Poster)  
 *PhyTTA: Physics-Informed Test-Time Adaptation of Foundation Models for Regional Drought Prediction*
 
