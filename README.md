@@ -35,7 +35,7 @@
 **ICML 2026** (Poster)  
 *RESIDUAL-GUIDED MULTI-RESOLUTION REFINEMENT OF FOUNDATION MODELS - A CASE STUDY IN DROUGHT FORECASTING*
 
-**IJCAI 2026** (Oral & Poster)  
+**IJCAI 2026** (Oral)  
 *PhyTTA: Physics-Informed Test-Time Adaptation of Foundation Models for Regional Drought Prediction*
 
 **WWW 2026** (Poster)  
@@ -44,10 +44,10 @@
 **AAAI 2026** (Poster)  
 *Deep Extreme Transformer: Tackling Zero-Inflated Time Series for Precipitation Prediction*
 
-**IJCAI 2025** (Oral & Poster)  
+**IJCAI 2025** (Oral)  
 *Deconfounding Multi-Cause Latent Confounders: A Factor-Model Approach to Climate Model Bias Correction*
 
-**ECAI 2025** (Oral & Poster)  
+**ECAI 2025** (Oral)  
 *From Noise to Precision: A Diffusion-Driven Approach to Zero-Inflated Precipitation Prediction*
 
 **AJCAI 2024** (Oral)  
