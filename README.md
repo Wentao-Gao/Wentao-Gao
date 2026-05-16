@@ -32,6 +32,9 @@
 
 ### First-Author Publications
 
+**KDD 2026** (Poster)  
+*Lightweight Wrappers for Adapting Time Series Foundation Models to Regional Drought Forecasting*
+
 **ICML 2026** (Poster)  
 *RESIDUAL-GUIDED MULTI-RESOLUTION REFINEMENT OF FOUNDATION MODELS - A CASE STUDY IN DROUGHT FORECASTING*
 
