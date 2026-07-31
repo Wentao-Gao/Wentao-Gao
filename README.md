@@ -140,7 +140,7 @@ An implementation of Time Series Inference (TSI) with decomposition and multi-vi
 
 ## 🏫 Teaching & Mentorship
 
-**Adelaide University** (2024-2025)
+**Adelaide University** (2024-2026)
 - **Unsupervised Methods in Analytics** - Clustering, dimensionality reduction, anomaly detection
 - **Advanced Topics in Data Analytics** - ML methodology and research project guidance  
 - **Experimental Design** - Statistical testing and research methodology
