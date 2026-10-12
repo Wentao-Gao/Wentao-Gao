@@ -58,6 +58,7 @@
 
 ### Collaborative Publications
 
+**Nips2026** - UFO: A Unified Flow-Oriented Framework for Robust Continual Graph Learning
 **ECAI 2025** - PCFNet: Frequency-domain forecasting for long-term prediction  
 **ECML-PKDD 2025** - G-GLformer: Transformer with GRU embedding for multivariate forecasting  
 **ICML 2025** - Peer effect estimation in network data using GNN  
